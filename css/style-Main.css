@@ -4,3 +4,29 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+/*Dyonne Footer*/
+footer{
+    background: #0714F4;
+    
+}
+
+.white-text{
+    color: white;
+}
+
+#chat-button{
+    color: #0714F4;
+    background-color: white;
+}
+/*End Footer*/
+
+/*Dyonne Navbar*/
+
+/*End Navbar*/
+
+/* Dyonne Section*/
+#dy-section{
+    padding-bottom: 30px;
+}
+/*End Dyonne Section*/
