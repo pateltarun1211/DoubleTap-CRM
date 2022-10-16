@@ -85,6 +85,7 @@ body{
     margin-right: auto;
 }
 
+
 #double_tap{
     font-weight: 600;
 }
@@ -199,6 +200,33 @@ body{
     border-top-right-radius : 15px;
     border-bottom-right-radius: 15px;
 }
+
+
+/*Dyonne Footer*/
+footer{
+    background: #0714F4;
+    
+}
+
+.white-text{
+    color: white;
+}
+
+#chat-button{
+    color: #0714F4;
+    background-color: white;
+}
+/*End Footer*/
+
+/*Dyonne Navbar*/
+
+/*End Navbar*/
+
+/* Dyonne Section*/
+#dy-section{
+    padding-bottom: 30px;
+}
+/*End Dyonne Section*/
 
 .accepting_payments{
     padding-left: auto;

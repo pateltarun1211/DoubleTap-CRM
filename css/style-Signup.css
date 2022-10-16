@@ -1,0 +1,76 @@
+/*Written by Tarun*/
+
+.signin-form {
+    justify-content: center;
+    text-align: center;
+}
+
+.signup-text {
+    color: rgb(132, 132, 132);
+}
+
+.signup-button-2 {
+    color: #ffffff;
+    background-color: #0714f4   ;
+    border-radius: 20px;
+    border-width: 3px;
+    border-color: white;
+    padding: 5px;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+
+#group-15 {
+    max-width: 400px;
+}
+
+.col-7 {
+    justify-content: center;
+    text-align: center;
+}
+
+input, textarea {
+    border-radius: 75px;
+    border-width: 1px;
+    padding: 5px;
+    padding-left: 30px;
+    
+}
+
+#username {
+    background: url(/images/CRM-Assets/Page-1.png) no-repeat scroll 9px 9px;
+    background-size: 15px;
+}
+
+#femail {
+    background: url(/images/CRM-Assets/envelope-regular.png) no-repeat scroll 9px 9px;
+    background-size: 15px;
+    
+}
+
+#password {
+    background: url(/images/CRM-Assets/lock-solid.png) no-repeat scroll 9px 9px;
+    background-size: 15px;
+}
+
+.signin-button {
+    color: #ffffff;
+    background-color: #0714f4   ;
+    border-radius: 20px;
+    border-width: 0px;
+    padding: 5px;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 0px;
+    width: 20x;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 50%;
+    color: black;
+  }
