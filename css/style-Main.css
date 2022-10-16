@@ -1,3 +1,83 @@
+body{
+    font: arial;
+}
+
+#heading_focus_on{
+    font-size: 55px;
+    font-weight: bold;
+    inline-size: 360x;
+    margin-bottom: -5px;
+    word-wrap: normal
+}
+
+#handle_everything{
+    font-size: 35px;
+    font-weight: 450;
+}
+
+#subscription_billing{
+    color: #9A9A9A;
+    font-weight: 650;
+    margin-top: -10px;
+}
+
+#buttons{
+    margin-top: -10px;
+}
+
+.sign_up_button{
+    width: 160px;
+    font-weight: 650;
+    background-color: #2B50F8;
+    padding: 10.5px 16px;
+}
+
+.chat_with_us_button{
+    width: 175px;
+    font-weight: 500;
+    color: #2B50F8;
+    background-color: #FFFFFF;
+    border: 1px solid #2B50F8;
+    padding: 9px 16px;
+}
+
+#already_using{
+    color: #838282;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+#images_under_buttons{
+    width: 100%;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+#free_14_img{
+    width: 20%;
+    margin-top: -5px;
+}
+
+#manage_customer_img{
+    margin-top: -5px;
+    width: 32%;
+}
+
+#cancel_img{
+    width: 22%;
+    margin-top: -5px;
+}
+
+#col_header_side{
+    width: 35%;
+    height: 60%;
+}
+
+#header_side{
+    width: 100%;
+    height: 100%;
+}
+
 .style1 {
     border-top: 1px solid #838282;
     width: 50%;
@@ -30,3 +110,27 @@ footer{
     padding-bottom: 30px;
 }
 /*End Dyonne Section*/
+.accepting_payments{
+    padding-left: auto;
+    padding-right: auto;
+}
+
+#credit_card{
+    
+}
+
+#heading_payments{
+    font-size: 26px;
+    font-weight: 500;
+}
+
+#statement{
+    font-weight: 600;
+}
+
+.learn_more_button{
+    border: 1px solid;
+    padding: 9px 16px;
+}
+
+
