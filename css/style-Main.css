@@ -29,10 +29,6 @@ body{
     margin-top: -10px;
 }
 
-.learn-more-button {
-    text-decoration: none;
-}
-
 .sign_up_button{
     width: 160px;
     font-weight: 650;
@@ -92,7 +88,6 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-
 
 #double_tap{
     font-weight: 600;
@@ -209,36 +204,6 @@ body{
     border-bottom-right-radius: 15px;
 }
 
-.icon-images {
-    max-width: 200px;
-}
-
-/*Dyonne Footer*/
-footer{
-    background: #0714F4;
-    padding-bottom: 2vh;
-}
-
-.white-text{
-    color: white;
-}
-
-#chat-button{
-    color: #0714F4;
-    background-color: white;
-}
-/*End Footer*/
-
-/*Dyonne Navbar*/
-
-/*End Navbar*/
-
-/* Dyonne Section*/
-#dy-section{
-    padding-bottom: 30px;
-}
-/*End Dyonne Section*/
-
 .accepting_payments{
     padding-left: auto;
     padding-right: auto;
@@ -308,3 +273,33 @@ footer{
 #business_needs{
     padding-top: 75px;
 }
+
+/*Dyonne Footer*/
+footer{
+    background: #0714F4;
+    padding-bottom: 2vh;
+}
+
+.white-text{
+    color: white;
+}
+
+#signin-button {
+    text-decoration: none;
+}
+
+#chat-button{
+    color: #0714F4;
+    background-color: white;
+}
+/*End Footer*/
+
+/*Dyonne Navbar*/
+
+/*End Navbar*/
+
+/* Dyonne Section*/
+#dy-section{
+    padding-bottom: 30px;
+}
+/*End Dyonne Section*/
