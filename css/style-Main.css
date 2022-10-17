@@ -1,3 +1,7 @@
+* {
+    max-width: 100%;
+}
+
 body{
     font: arial;
 }
@@ -23,6 +27,10 @@ body{
 
 #buttons{
     margin-top: -10px;
+}
+
+.learn-more-button {
+    text-decoration: none;
 }
 
 .sign_up_button{
@@ -201,11 +209,14 @@ body{
     border-bottom-right-radius: 15px;
 }
 
+.icon-images {
+    max-width: 200px;
+}
 
 /*Dyonne Footer*/
 footer{
     background: #0714F4;
-    
+    padding-bottom: 2vh;
 }
 
 .white-text{
